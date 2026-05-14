@@ -1,22 +1,28 @@
-<h1 align="center">Hi 👋, I'm Shailesh Rushi Panchala</h1>
+<h1 align="center">Hi , I'm Shailesh Rushi Panchala</h1>
 
 <h3 align="center">
 Aspiring AI/ML Engineer • Focused on Deep Learning • Building and shipping projects
 </h3>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Engineer-black?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Focused-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Building%20Projects-success?style=for-the-badge"/>
+</p>
 
-## 🚀 About Me
-
-- 🎯 JEE Aspirant with a strong focus on Artificial Intelligence
-- 🧠 Currently working on Deep Learning fundamentals and architectures
-- 🛠 Building projects to apply ML/DL concepts in real scenarios
-- 📈 Consistency-driven learner with a product-building mindset
-- ⚡ Interested in AI systems, model training, and real-world deployment
+---
+##  About Me
+m
+-  JEE Aspirant with a strong focus on Artificial Intelligence
+-  Currently working on Deep Learning fundamentals and architectures
+-  Building projects to apply ML/DL concepts in real scenarios
+-  Consistency-driven learner with a product-building mindset
+-  Interested in AI systems, model training, and real-world deployment
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
 - Deep Learning (Neural Networks, CNNs, RNNs, Transformers basics)
 - Python for ML engineering workflows
@@ -25,7 +31,7 @@ Aspiring AI/ML Engineer • Focused on Deep Learning • Building and shipping p
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python  
 - Git & GitHub  
@@ -36,7 +42,7 @@ Aspiring AI/ML Engineer • Focused on Deep Learning • Building and shipping p
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Build strong Deep Learning intuition (not just libraries)
 - Develop end-to-end AI projects
@@ -46,7 +52,7 @@ Aspiring AI/ML Engineer • Focused on Deep Learning • Building and shipping p
 
 ---
 
-## 📌 Philosophy
+##  Philosophy
 
 - Execution > Theory  
 - Depth > Speed  
@@ -54,7 +60,7 @@ Aspiring AI/ML Engineer • Focused on Deep Learning • Building and shipping p
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaileshrushi&show_icons=true&theme=tokyonight&hide_border=true" />
