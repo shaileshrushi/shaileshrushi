@@ -59,9 +59,6 @@ System understanding over surface-level usage
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaileshrushi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshrushi&theme=tokyonight&hide_border=true" />
