@@ -1,66 +1,63 @@
-<h1 align="center">Hi , I'm Shailesh Rushi Panchala</h1>
+<h1 align="center">Shailesh Rushi Panchala</h1>
 
 <h3 align="center">
-Aspiring AI/ML Engineer • Focused on Deep Learning • Building and shipping projects
+Machine Learning and Deep Learning Systems
 </h3>
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-black?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Focused-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-success?style=for-the-badge"/>
-</p>
 
----
-##  About Me
-m
--  JEE Aspirant with a strong focus on Artificial Intelligence
--  Currently working on Deep Learning fundamentals and architectures
--  Building projects to apply ML/DL concepts in real scenarios
--  Consistency-driven learner with a product-building mindset
--  Interested in AI systems, model training, and real-world deployment
+## Profile
+
+I work on machine learning and deep learning systems with emphasis on implementation, evaluation, and understanding of model behavior.
+
+Primary focus is on bridging foundational theory with reproducible implementations.
+
+Target role: AI/ML Engineer
 
 ---
 
-##  Current Focus
+## Research / Technical Interests
 
-- Deep Learning (Neural Networks, CNNs, RNNs, Transformers basics)
-- Python for ML engineering workflows
-- Mathematics for Machine Learning (linear algebra, probability)
-- Project-based learning approach
-
----
-
-##  Tech Stack
-
-- Python  
-- Git & GitHub  
-- NumPy, Pandas  
-- Scikit-learn (foundational ML)  
-- TensorFlow / PyTorch (learning phase)  
-- Jupyter Notebook  
+Deep learning architectures  
+Representation learning  
+Optimization in neural networks  
+Model generalization and evaluation  
+Data-centric machine learning  
+Systematic experimentation with ML models  
 
 ---
 
-##  Goals
+## Current Work
 
-- Build strong Deep Learning intuition (not just libraries)
-- Develop end-to-end AI projects
-- Strengthen DSA for problem-solving discipline
-- Start contributing to open-source AI projects
-- Move towards real-world AI product development
-
----
-
-##  Philosophy
-
-- Execution > Theory  
-- Depth > Speed  
-- Systems > Shortcuts  
+Implementation of neural network architectures from first principles  
+Experimentation with CNN and sequence-based models  
+Building reproducible ML pipelines using Python  
+Studying training dynamics and failure modes in deep learning systems  
 
 ---
 
-##  GitHub Analytics
+## Technical Stack
+
+Python  
+NumPy  
+Pandas  
+Scikit-learn  
+PyTorch / TensorFlow (experimental use)  
+Jupyter  
+Git  
+
+---
+
+## Methodology
+
+Reproducibility over intuition  
+Measurement over assumption  
+Iteration over speculation  
+System understanding over surface-level usage  
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaileshrushi&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -70,6 +67,9 @@ m
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshrushi&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshrushi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+## Contact
+
+Email: shaileshrushi.p@gmail.com  
+GitHub: github.com/shaileshrushi
